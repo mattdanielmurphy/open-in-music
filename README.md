@@ -28,6 +28,6 @@ As a result the app is "unsigned" and installation steps are more complicated; Y
 7. Repeat step 5 for the second target, `Open in Music Extension`.
 ![7](https://user-images.githubusercontent.com/18738486/110266332-cacb7080-7f7a-11eb-8979-30e0d233ab20.png)
 8. In the menu click Product -> Archive.
-9. ![8](https://user-images.githubusercontent.com/18738486/110266352-d74fc900-7f7a-11eb-868c-8772caf2c9f9.png)
-10. Drag `Open in Music.app` to your /Applications folder.
-11. Open the application, click the button, and enable the extension in Safari.
+![8](https://user-images.githubusercontent.com/18738486/110266352-d74fc900-7f7a-11eb-868c-8772caf2c9f9.png)
+9. Drag `Open in Music.app` to your /Applications folder.
+10. Open the application, click the button, and enable the extension in Safari.
