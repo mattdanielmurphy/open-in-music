@@ -17,10 +17,10 @@ You must sign the application yourself. (This is because don't have a paid Apple
 2. Open `/open-in-music.xcodeproj` in Xcode.
 3. Sign the app to run locally:
    1. Select the project in the navigator.
-   2. Click the first target `Open in Music`.
+   2. Click the first target, `Open in Music`.
    3. Click the `Signing & Capabilities` tab.
    4. Change `Team` to your account.
-   5. Repeat step 3.4 for the second target, `Open in Music Extension`.
+   5. Repeat the previous step for the second target, `Open in Music Extension`.
    ![Screnshot-1](https://user-images.githubusercontent.com/18738486/110280922-ecd3eb80-7f98-11eb-9e99-66e01e01b95a.png)
 4. In the menu bar, select `Product` -> `Archive`.
    ![Screnshot-2](https://user-images.githubusercontent.com/18738486/110279699-c57c1f00-7f96-11eb-9ea0-6199317efaab.png)
