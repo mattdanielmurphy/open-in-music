@@ -18,14 +18,14 @@ As a result the app is "unsigned" and installation steps are more complicated; Y
 1. [Download](https://github.com/mattdanielmurphy/open-in-music/releases/download/v0.1/Open-in-Music.zip) this repo.
 2. Open `/open-in-music.xcodeproj` in Xcode.
 3. Sign the app to run locally:
-![Screenshot-1](https://user-images.githubusercontent.com/18738486/110276770-2143a980-7f91-11eb-8d3e-bdfec40f1821.png)
   a. Select the project in the navigator.
   b. Click the first target `Open in Music`.
   c. Click the `Signing & Capabilities` tab.
   d. Change `Team` to your account.
   e. Repeat (d) for the second target, `Open in Music Extension`.
+![1](https://user-images.githubusercontent.com/18738486/110279666-b39a7c00-7f96-11eb-9ef6-9f48f659ac18.png)
 4. In the menu bar, select Product -> Archive.
-![Screenshot-2](https://user-images.githubusercontent.com/18738486/110278343-4ede2200-7f94-11eb-8aeb-6c2532258578.png)
+![2](https://user-images.githubusercontent.com/18738486/110279699-c57c1f00-7f96-11eb-9ea0-6199317efaab.png)
 5. Click `Distribute App` and select `Copy App` as the method of distribution.
 ![Screenshot-3](https://user-images.githubusercontent.com/18738486/110278199-07f02c80-7f94-11eb-82ab-54e03b37a7a0.png)
 7. Drag `Open in Music.app` to your /Applications folder.
