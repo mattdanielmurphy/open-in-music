@@ -15,7 +15,7 @@ As a result the app is "unsigned" and installation steps are more complicated; Y
 
 ### Steps to install
 
-1. [Download](https://github.com/mattdanielmurphy/open-in-music/archive/v0.1.zip) this repo.
+1. [Download](https://github.com/mattdanielmurphy/open-in-music/releases/download/v0.1/Open-in-Music.zip) this repo.
 2. Open `/open-in-music.xcodeproj` in Xcode.
 3. Select the project in the navigator.
 ![3](https://user-images.githubusercontent.com/18738486/110266196-88a22f00-7f7a-11eb-80b3-5f36a54077f7.png)
