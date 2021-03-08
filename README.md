@@ -23,9 +23,9 @@ As a result the app is "unsigned" and installation steps are more complicated; Y
    3. Click the `Signing & Capabilities` tab.
    4. Change `Team` to your account.
    5. Repeat step 3.4 for the second target, `Open in Music Extension`.
-   ![1](https://user-images.githubusercontent.com/18738486/110280205-aaf67580-7f97-11eb-826b-716cb9d06ff7.png)
+   ![Screnshot-1](https://user-images.githubusercontent.com/18738486/110280922-ecd3eb80-7f98-11eb-9e99-66e01e01b95a.png)
 4. In the menu bar, select Product -> Archive.
-   ![2](https://user-images.githubusercontent.com/18738486/110279699-c57c1f00-7f96-11eb-9ea0-6199317efaab.png)
+   ![Screnshot-2](https://user-images.githubusercontent.com/18738486/110279699-c57c1f00-7f96-11eb-9ea0-6199317efaab.png)
 5. Click `Distribute App` and select `Copy App` as the method of distribution.
    ![Screenshot-3](https://user-images.githubusercontent.com/18738486/110278199-07f02c80-7f94-11eb-82ab-54e03b37a7a0.png)
 6. Drag `Open in Music.app` to your /Applications folder.
