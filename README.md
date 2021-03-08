@@ -8,7 +8,7 @@ You must sign the application yourself. (This is because don't have a paid Apple
 
 ### Requirements
 
-- Xcode (free)
+- [Xcode](https://apps.apple.com/ca/app/xcode/id497799835) (free)
 - Apple Developer account (free)
 
 ### Steps to install
